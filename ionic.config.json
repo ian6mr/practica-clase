@@ -1,0 +1,8 @@
+{
+  "name": "PracticaClase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "0703bd1b"
+}
